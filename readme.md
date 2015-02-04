@@ -1,0 +1,1 @@
+﻿[Source material for this spike.](http://tech.trailmax.info/2014/02/implemnting-https-everywhere-in-asp-net-mvc-application/)
